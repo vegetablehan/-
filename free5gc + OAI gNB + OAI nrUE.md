@@ -241,7 +241,7 @@ RF Simulator测试是指，在没有真实的RF板的情况下，使用RF Simula
 - fr1 or fr2：5G 频谱区间
 - tmx：传输模式
 - PRB: 分配给SCH信道的PRB个数
-- usrpbxxx：OAI支持的实际RF硬件的型号，目前OAI只支持usrpb系列硬件。
+- usrpbxxx：OAI支持的实际RF硬件的型号
 
 #### 运行基站
 ```bash
